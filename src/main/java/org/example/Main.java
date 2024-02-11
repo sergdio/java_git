@@ -6,6 +6,10 @@ public class Main {
 
         System.out.println("Hello Git!");
         System.out.println("Hello DIO!");
+
+        System.out.println("Hello 2222!");
+        System.out.println("Hello 3333333!");
+
         System.out.println("Hello 123_TC!");
     }
 
